@@ -18,3 +18,11 @@ This project is organized by template. Each template path contains the Packer bu
 The [Hashicorp Consul](./consul-ami/template.json) build template is based on the work by [Gruntwork](www.gruntwork.io). The original example Packer build template resides in the [Github: hashicorp/terraform-aws-consul](https://github.com/hashicorp/terraform-aws-consul) project.
 
 The [Hashicorp Vault](./vault-consul-ami/template.json) build template is based on the work by [Gruntwork](www.gruntwork.io). The original example Packer build template resides in the [Github: hashicorp/terraform-aws-vault](https://github.com/hashicorp/terraform-aws-vault) project.
+
+## External References
+
+* [Dockerhub: devtestlabs/hashicorp-packer container image](https://hub.docker.com/r/devtestlabs/hashicorp-packer)
+
+* [Github: hashicorp/terraform-aws-vault](https://github.com/hashicorp/terraform-aws-vault)
+
+* [Github: hashicorp/terraform-aws-consul](https://github.com/hashicorp/terraform-aws-consul)
